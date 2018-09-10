@@ -2,7 +2,6 @@ package com.company.support.model;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.util.List;
 
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
